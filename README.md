@@ -14,7 +14,7 @@ Install missing dependencies using [pip](https://pip.pypa.io/en/stable/installin
 
 ## Usage
 
-Once you have your dependencies installed via pip, run the script in terminal via
+Once you have your dependencies installed via pip, run the script in Jupyter.
 
 ```
 python demo.py
