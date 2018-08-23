@@ -16,9 +16,7 @@ Install missing dependencies using [pip](https://pip.pypa.io/en/stable/installin
 
 Once you have your dependencies installed via pip, run the script in Jupyter.
 
-```
-python demo.py
-```
+[gender_classification_challenge.ipynb](https://github.com/UpcaseM/gender_classification_challenge/blob/master/gender_classification_challenge.ipynb)
 
 ## Challenge
 
